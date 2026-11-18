@@ -4,8 +4,23 @@ p {
   font-size: 14pt;
   
   color: blue;
-
+  width: 200px;
+  display:block;
+  border-color: aqua;
+  border-width:10px;
+  border-style: solid;
+  border-radius:10px;
   
+}
+
+
+h1 {
+
+    
+    text-align: center;
+    display: block;
+    text-indent: 18px;
+
 
 
 }
